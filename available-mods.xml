@@ -1,7 +1,17 @@
 <mods>
 	<mod>
-		<name></name>
-		<version></version>
-		<link></link>
+		<name>DerMod 1</name>
+		<version>1.0.2</version>
+		<link>http://raw.githubusercontent.com/MovEaxEax/xnyu-debug-approved-mods/main/mod1_1-1-2.zip</link>
+	</mod>
+	<mod>
+		<name>Der Mod2</name>
+		<version>3.1.2.0</version>
+		<link>http://raw.githubusercontent.com/MovEaxEax/xnyu-debug-approved-mods/main/mod2.zip</link>
+	</mod>
+	<mod>
+		<name>Der Mod 3</name>
+		<version>1.0</version>
+		<link>http://raw.githubusercontent.com/MovEaxEax/xnyu-debug-approved-mods/main/mod3_1-0-2-0-3456.zip</link>
 	</mod>
 </mods>
