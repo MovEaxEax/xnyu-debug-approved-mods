@@ -1,7 +1,12 @@
 <mods>
 	<mod>
-		<name>Kengeki</name>
+		<name>Touhou Youyou Kengeki Mosou</name>
 		<version>1.0.0</version>
-		<link>http://raw.githubusercontent.com/MovEaxEax/xnyu-debug-approved-mods/main/mods/Kengeki.zip</link>
+		<link>http://raw.githubusercontent.com/MovEaxEax/xnyu-debug-approved-mods/main/mods/TouhouYouyouKengekiMosou.zip</link>
+	</mod>
+	<mod>
+		<name>Touhou Scarlet Curiosity</name>
+		<version>1.0.0</version>
+		<link>http://raw.githubusercontent.com/MovEaxEax/xnyu-debug-approved-mods/main/mods/TouhouScarletCuriosity.zip</link>
 	</mod>
 </mods>
