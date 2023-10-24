@@ -9,4 +9,9 @@
 		<version>1.0.0</version>
 		<link>http://raw.githubusercontent.com/MovEaxEax/xnyu-debug-approved-mods/main/mods/TouhouScarletCuriosity.zip</link>
 	</mod>
+	<mod>
+		<name>Touhou New World</name>
+		<version>1.0.0</version>
+		<link>http://raw.githubusercontent.com/MovEaxEax/xnyu-debug-approved-mods/main/mods/TouhouNewWorld.zip</link>
+	</mod>
 </mods>
